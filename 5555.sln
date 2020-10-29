@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{359D00C7-C259-402D-9977-8533F327C262}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication6", "PythonApplication6\PythonApplication6.pyproj", "{68899C70-729B-488C-922D-60EB8157AE07}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication7", "PythonApplication7\PythonApplication7.pyproj", "{6E952475-F091-4FC7-89D5-E6AA54915C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359D00C7-C259-402D-9977-8533F327C262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359D00C7-C259-402D-9977-8533F327C262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68899C70-729B-488C-922D-60EB8157AE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68899C70-729B-488C-922D-60EB8157AE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E952475-F091-4FC7-89D5-E6AA54915C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E952475-F091-4FC7-89D5-E6AA54915C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18155EA9-370B-4B87-A1F7-F032937ECCD9}
+	EndGlobalSection
+EndGlobal
