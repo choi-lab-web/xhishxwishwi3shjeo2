@@ -8,10 +8,10 @@ def add(x,y):
 
 print("x,y를 입력하세요")
      
-num1 = int(input("Enter first number"))
-num2 = int(input("Enter second number"))
+num1 = input("Enter first number")
+num2 = input("Enter second number")
 
 
-numadd = num1 + num2
+numadd6 = add(num1,num2)
 
 print(numadd)
